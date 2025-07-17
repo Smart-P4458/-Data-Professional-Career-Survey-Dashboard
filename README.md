@@ -5,6 +5,13 @@ This project is a **capstone data visualization solution** built with Power BI a
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/11f986dbba27b9d65c7fd7b00e1fb038f81fd27a/Power%20BI%20Capstone%20Project.jpg)
 ![SQL queries Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/acf5ce55cfc524ccdcd101463e3fa94ba73aeffb/SQL%20Queries%20Prof.%20Data%20Survey.jpg)
 
+---
+
+## See Live Dashboard 
+[Live Power_Bi_Dashboard](https://app.powerbi.com/links/cqyCzOAQ0M?ctid=71cf4385-6466-489d-a591-0aff690ce852&pbi_source=linkShare)
+
+---
+
 ## 👋 Project Overview
 
 This project is a **capstone data visualization solution** built with Power BI as part of the **3MTT DeepTech-Ready Program** by **Data Science Nigeria** with support from **Google.org**. It explores key trends in the data profession using a structured dataset of 630 global respondents across job titles, industries, and demographics.
