@@ -71,4 +71,46 @@ This project is a **capstone data visualization solution** built with Power BI a
 ---
 
 ## 📂 Repository Structure
+📁 PowerBI-DataCareerSurvey
+├── 📊 Dashboard.pbix
+├── 📋 README.md
+├── 📁 Assets
+│ └── My 3mtt Darey Final Project.jpg
+├── 📁 SQL
+│ └── CreateTable_Data_Professional_Survey.sql
+├── 📁 PowerQuery
+│ └── BucketSatisfaction_M_Code.txt
+
+
+---
+
+## 👤 Author
+
+**Pam Sani George**  
+Cohort 1 ID: FE/23/2802316  
+🎓 3MTT Nigeria | 3MTT DeepTech-Ready Program  
+🌍 Nigeria | 🇳🇬
+
+---
+
+## 📣 Acknowledgment
+
+This project was made possible with support from:
+
+- **Federal Government of Nigeria**
+- **The 3MTT Program**
+
+---
+
+## ⭐️ Let's Connect
+
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/pamsani/)
+- 🌐 [Personal Portfolio](https://mavenanalytics.io/profile/08d183b0-f0f1-70a3-a6f9-d7782b33e46b) 
+- ✉️ Email: sanismartp1@gmail.com
+
+---
+
+> *“Learning how to think with data is the most powerful skill in today’s digital world.”*
+
+
 
