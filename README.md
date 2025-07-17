@@ -84,7 +84,7 @@ This project is a **capstone data visualization solution** built with Power BI a
 
 ---
 ## 📁 SQL Queries
-[Get SQL queries]("C:\Users\Wanka Signature LTD\Documents\SQL Server Management Studio\Professional Survey Table.sql")
+[Get SQL queries](https://github.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/commit/cd7f0b612eafcd6cfbf9b42395fbdc25e045e475#diff-0bd72ae056ac148fc043b1105e9150dc58c2cb17ca7369f31bf56aee550b3577)
 
 
 ---
