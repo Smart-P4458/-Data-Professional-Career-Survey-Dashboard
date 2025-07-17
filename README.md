@@ -3,6 +3,7 @@ This project is a **capstone data visualization solution** built with Power BI a
 # 📊 Data Professional Career Survey Dashboard
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/11f986dbba27b9d65c7fd7b00e1fb038f81fd27a/Power%20BI%20Capstone%20Project.jpg)
+![SQL queries Screenshot]()
 
 ## 👋 Project Overview
 
@@ -84,6 +85,11 @@ This project is a **capstone data visualization solution** built with Power BI a
 ---
 ## 📁 SQL Queries
 [Get SQL queries]("C:\Users\Wanka Signature LTD\Documents\SQL Server Management Studio\Professional Survey Table.sql")
+
+
+---
+## 📁 Power BI Data Career Survey Dashboard
+[Get Power BI Dashboard]()
 
 
 ---
