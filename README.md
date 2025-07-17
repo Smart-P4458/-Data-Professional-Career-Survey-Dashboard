@@ -76,10 +76,14 @@ This project is a **capstone data visualization solution** built with Power BI a
 ├── 📋 README.md
 ├── 📁 Assets
 │ └── My 3mtt Darey Final Project.jpg
-├── 📁 SQL
+├── 📁 SQL 
 │ └── CreateTable_Data_Professional_Survey.sql
 ├── 📁 PowerQuery
 │ └── BucketSatisfaction_M_Code.txt
+
+---
+## 📁 SQL Queries
+[Get SQL queries]("C:\Users\Wanka Signature LTD\Documents\SQL Server Management Studio\Professional Survey Table.sql")
 
 
 ---
