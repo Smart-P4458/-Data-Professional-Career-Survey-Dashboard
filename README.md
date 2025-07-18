@@ -3,7 +3,7 @@ This project is a **capstone data visualization solution** built with Power BI a
 # 📊 Data Professional Career Survey Dashboard
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/11f986dbba27b9d65c7fd7b00e1fb038f81fd27a/Power%20BI%20Capstone%20Project.jpg)
-![Dashboard Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/11f986dbba27b9d65c7fd7b00e1fb038f81fd27a/Power%20BI%20Capstone%20Project.jpg)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/14d729b759e7e5298c6cce5eb9cdaca1662a4aba/3MTT%20Power%20BI%20Project%202025.jpg)
 ![SQL queries Screenshot](https://raw.githubusercontent.com/Smart-P4458/-Data-Professional-Career-Survey-Dashboard/acf5ce55cfc524ccdcd101463e3fa94ba73aeffb/SQL%20Queries%20Prof.%20Data%20Survey.jpg)
 
 ---
